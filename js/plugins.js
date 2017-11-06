@@ -15,7 +15,6 @@ $(document).ready(function () {
 	$(window).resize(function () {
 		
 		myHeader.height($(window).height());
-		myHeader.width($(window).width());
 		
 		// Make BX-Slider in Center
 		
